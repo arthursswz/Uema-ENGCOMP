@@ -17,7 +17,8 @@ Circuitos, campos, ondas eletromagnéticas e óptica são bases para eletrônica
 
 ## Materiais gratuitos
 
-- [College Physics 2e — OpenStax](https://openstax.org/books/college-physics-2e/pages/1-introduction-to-science-and-the-realm-of-physics-physical-quantities-and-units) — livro aberto com capítulos sobre eletricidade, magnetismo, ondas e óptica. Tipo: livro aberto. Conteúdo em inglês.
+
+  - [Física - Halliday 3 ediçao](https://www.eletrica.ufpr.br/armando/index_arquivos/FIsica%203%20Eletromagnetismo%20Halliday.pdf) Livro amplamente utilizado por docentes para ministrar a disciplina
 
 ## Canais e playlists
 
