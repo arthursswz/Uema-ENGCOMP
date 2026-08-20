@@ -1,6 +1,6 @@
 # Como contribuir
 
-Obrigado por ajudar a tornar este repositório um apoio útil para estudantes de Engenharia da Computação da UEMA. Este é um projeto independente, colaborativo e de uso educacional.
+Obrigado por ajudar a tornar este repositório um apoio útil para estudantes de Engenharia da Computação da UEMA. Este é um projeto independente, colaborativo e de uso educacional, feito por Juao Arthur :D
 
 ## Antes de começar
 
@@ -55,15 +55,7 @@ Você pode enviar, quando tiver direito de compartilhá-los:
 - provas anteriores somente para estudo, após anonimização; e
 - materiais com licença ou autorização que permita redistribuição, sempre com crédito.
 
-## Materiais que não devem ser enviados
 
-Não envie:
-
-- provas atuais, futuras ou avaliações em andamento;
-- respostas ou gabaritos de avaliações atuais;
-- nomes, matrículas, notas, assinaturas, e-mails, telefones ou outros dados pessoais;
-- livros, apostilas, slides, artigos ou arquivos protegidos por direitos autorais sem permissão; e
-- conteúdo que apresente o projeto como oficial da UEMA.
 
 ## Como anonimizar provas
 
